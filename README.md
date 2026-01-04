@@ -17,7 +17,4 @@ This project is a GUI-based Temperature Converter application developed using **
 - GUI Framework: Windows API (Win32)
 - Platform: Windows
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PRODIGY_SD_01.git
+
